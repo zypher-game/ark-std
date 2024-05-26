@@ -1,11 +1,11 @@
 [package]
-name = "ark-std"
+name = "ark-std-zypher"
 version = "0.4.0"
 authors = [ "arkworks contributors" ]
 description = "A library for no_std compatibility"
 homepage = "https://arkworks.rs"
-repository = "https://github.com/arkworks-rs/std"
-documentation = "https://docs.rs/ark-std/"
+repository = "https://github.com/zypher-game/ark-std"
+documentation = "https://docs.rs/ark-std-zypher/"
 keywords = [ "no_std" ]
 categories = ["cryptography"]
 include = ["Cargo.toml", "src", "README.md", "LICENSE-APACHE", "LICENSE-MIT"]
